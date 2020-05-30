@@ -1,0 +1,7 @@
+C:\Repository\KeyboardListener\obj\Debug\KeyboardListener.csproj.CoreCompileInputs.cache
+C:\Repository\KeyboardListener\bin\Debug\KeyboardListener.exe.config
+C:\Repository\KeyboardListener\bin\Debug\KeyboardListener.exe
+C:\Repository\KeyboardListener\bin\Debug\KeyboardListener.pdb
+C:\Repository\KeyboardListener\obj\Debug\KeyboardListener.exe
+C:\Repository\KeyboardListener\obj\Debug\KeyboardListener.pdb
+C:\Repository\KeyboardListener\obj\Debug\KeyboardListener.csprojAssemblyReference.cache
